@@ -34,10 +34,10 @@ public class Sum_2dArray {
                 }
                 System.out.println((i + 1) + "st Row wise sum :" + sum1);
             }
-            for(int i=0;i<r;i++)
+            for(int i=0;i<c;i++)
             {
                 sum2=0;
-                for(int j=0;j<c;j++)
+                for(int j=0;j<r;j++)
                 {
                     sum2+=arr[j][i];
                 }

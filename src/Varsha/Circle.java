@@ -1,4 +1,3 @@
-//My first program
 package Varsha;
 import java.util.*;
 
